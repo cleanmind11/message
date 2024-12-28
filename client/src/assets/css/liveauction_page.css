@@ -1,0 +1,49 @@
+.liveauction{
+    margin-top: 3.7rem;
+    margin-left: 16rem;
+    margin-right: 16rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-liveauciton {
+    height: 9.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-liveauciton > div:first-child {
+    color : #0B213E;
+    font-size: 3.6rem;
+    line-height: 4.8rem;
+    font-weight: bold;
+}
+
+.right-header-liveauciton {
+    display: flex;
+    gap: 3.3rem;
+}
+
+.element-header-liveauciton{
+    height: 6.2rem;
+    font-size: 2.4rem;
+    font-weight: 500;
+    line-height: 3.2rem;
+    color: #838383;
+}
+.blue-element-header-liveauciton{
+    height: 6.2rem;
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+    color: #1C83E5;
+    border-style: none none solid none;
+    border-color: #1C83E5;
+    border-width: 0.2rem;
+}
+
+
+.main-liveauciton{
+    margin-top: 2.9rem;
+    display: flex;
+    justify-content: space-between;
+}

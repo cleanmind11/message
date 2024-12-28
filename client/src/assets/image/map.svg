@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="920" height="704.082" viewBox="0 0 920 704.082">
+                            <defs>
+                                <clipPath id="clip-path">
+                                <rect id="background" width="920" height="704.082" transform="translate(840 168)" fill="#c4c4c4"/>
+                                </clipPath>
+                            </defs>
+                            <g id="background-2" data-name="background" transform="translate(-840 -168)" clip-path="url(#clip-path)">
+                                <path id="Vector" d="M389.972,98.03c118.322-8.605,218.452-131.685,325.71-89.1,110.305,43.8,144.191,170.253,134.756,271.921-8.908,95.985-98.209,166.318-181.6,232.815C588.157,578.007,497.06,674.2,389.972,648.046,281.8,621.628,311.243,479.313,237.334,408.282,174.711,348.1,33.956,357.547,7.9,280.851c-27.825-81.9,20.094-186.008,108.563-228.34C200.309,12.391,293.695,105.032,389.972,98.03Z" transform="translate(870.51 219.633)" fill="#e6effa"/>
+                                <circle id="ellipse" cx="39.898" cy="39.898" r="39.898" transform="translate(878.724 606.878)" fill="#e6effa"/>
+                                <circle id="ellipse-2" data-name="ellipse" cx="21.122" cy="21.122" r="21.122" transform="translate(1700.153 252.49) rotate(180)" fill="#e6effa"/>
+                            </g>
+                        </svg>

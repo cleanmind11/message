@@ -1,0 +1,200 @@
+
+/* end navBar */
+
+.page-color {
+
+}
+/* Start firstPart */
+#up-main {
+    padding-top: 4.8rem;
+    padding-bottom: 9.59rem;
+    padding-left: 16rem;
+    padding-right: 16rem;
+}
+
+#first {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.title-of-first {
+    overflow: hidden;
+}
+
+.text-of-first {
+     padding-top: 3.3rem;
+     line-height: 4rem;
+}
+.left-first {
+    /* padding-right: 12.1rem; */
+    justify-content: center;
+    /* min-width: 34%; */
+    max-width: 42.5%;
+    /* overflow: visible; */
+}
+
+#Explore {
+    margin-top: 4rem; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.8rem 2.65rem;
+    justify-content: space-between;
+    border: none;
+    border-radius: 0.8rem;
+    width: 14.9rem;
+}
+.first-image {
+    width: 57.5%;
+    height: auto;
+}
+
+/* Start secondPart */
+
+#second {
+    margin-top: 19.19rem;
+}
+
+#titleOfSecond {
+    padding-bottom: 4.8rem;
+}
+
+.howItWorkList {
+    display: flex;
+    justify-content: space-between;
+    gap : 3.2rem;
+}
+
+
+/* Start third */
+
+#third {
+    margin-top: 9.6rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.liveAuctionList {
+    display: flex;
+    
+    justify-content: space-between;
+}
+.footer-third {
+    margin-top:6.6rem;
+    display: flex;
+    justify-content: center;
+}
+.center-footer-third {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 2.65rem;
+    margin-right: 2.65rem;
+    width: 11.2rem;
+}
+
+/* Start Fourth */
+
+#fourth {
+    margin-top: 11.36rem;
+}
+
+.topArtistList {
+    display: flex;
+    justify-content: space-between;
+}
+/* Start fifth */
+
+#fifth {
+    margin-top: 9.6rem;
+    
+}
+
+.categoryList {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Start Sixth */
+
+#sixth {
+    margin-top: 9.6rem;
+}
+
+.popularcollectionlist{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Start center-main */
+
+#center-main{
+
+}
+
+#up-center-main {
+    height: 56rem;
+    background-color: #E6EFFA;
+    padding : 8rem 16rem 0rem;
+
+}
+
+.title-up-center-main{
+    color: #0B213E;
+}
+.text-up-center-main{
+    padding-top: 0.8rem;
+    color: #838383;
+}
+
+#down-center-main {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 16rem;
+    padding-right: 16rem;
+}
+
+/* Start down-main */
+
+#down-main {
+    padding-left: 16rem;
+    padding-right: 16rem;
+    margin-top: 9.6rem;
+    
+}
+
+.up-down-main {
+    display: flex;
+    justify-content: space-between;
+}
+.bigtitle-up-down-main {
+    color: #0B213E;
+}
+
+.smalltitle-up-down-main{
+    padding-top: 0.8rem;
+    color: #838383;
+}
+
+.faqList {
+    width:74.5%;
+}
+.center-down-main {
+    display: flex;
+    flex-direction: column;
+    padding-top: 8rem;
+}
+
+.title-center-down-main{
+    color: #0B213E;
+}
+
+.content-center-down-main{
+    padding-top: 6.6rem;
+    display: flex;
+}
+
+
+
+

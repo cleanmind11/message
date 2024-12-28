@@ -1,0 +1,153 @@
+.chat {
+    display: flex;
+    margin: 2rem 2rem;
+    border-style: solid;
+    border-color: #e6ebf1;
+    border: 0.1rem solid;
+}
+
+.chatleftbar{
+    width: 31.9rem;
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+.up-chatleftbar{
+
+}
+.header-chatleftbar{
+    display: flex;
+}
+
+.header-chatleftbar > span {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.header-chatleftbar > div {
+    font-size: 1.6rem;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    background-color: gray;
+    margin-left: 2rem;
+}
+
+.search-chatleftbar {
+    background-color: white;
+    background-image: url('../../../public/assets/image/search.svg');
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    margin-top: 1.6rem;
+}
+.userlist-chatleftbar {
+    padding-top: 2rem;
+}
+
+.mystate-chatlefbar{
+    display: flex;
+}
+.avatar-mystate-chatleftbar{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: none;
+    background-color: grey;
+    overflow: hidden;
+}
+.avatar-mystate-chatleftbar > img {
+    width: 100%;
+    height: auto;
+}
+
+.down-chatleftbar{
+    margin-top: 5rem;
+}
+
+.message {
+    display: flex;
+    flex : 1;
+}
+.message > p {
+    font-size: 1.8rem;
+}
+.message > p > span {
+    font-size: 1.3rem;
+}
+
+.messagehistory {
+    display: flex;
+    flex-direction: column;
+    gap : 2rem;
+}
+.motherchatting{
+    flex: 1;
+}
+.chatting {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.chatpage {
+    display: flex;
+    flex: 1;
+}
+
+.writemessage {
+
+}
+
+.main-writemessage {
+    resize: none;
+    width: 100%;
+    height: 10rem;
+    border-style: none none solid none;
+    border-color: black;
+    
+
+}
+.down-writemessage{
+    float: right;
+}
+.messageto {
+    display: flex;
+}
+
+.avatar-messageto {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.avatar-messageto > img {
+    width: 100%;
+    height : auto;
+}
+
+.userlist-component{
+    display: flex;
+}
+
+.avatar-userlist-component{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: none;
+    background-color: grey;
+    overflow: hidden;
+}
+.avatar-userlist-component > img {
+    width: 100%;
+    height: auto;
+}
+
+.button-loginout-component {
+    display: flex;
+}

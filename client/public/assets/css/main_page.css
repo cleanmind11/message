@@ -1,0 +1,161 @@
+html {
+    font-size: 62.5%;
+    margin: 0;
+    color :#0B213E;
+    /* overflow: hidden; */
+}
+  
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Start navBar.js */
+.navBar {
+    padding-top: 1.4rem;
+    padding-bottom: 1.4rem;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.fs-32{
+    font-size: 3.6rem;
+    line-height: 4.8rem;
+}
+
+.logo > div:last-child > p {
+    color: #0B213E;
+    height: 9.2rem;
+}
+
+.logo {
+    display: flex;
+    gap : 1.6rem;
+}
+
+.logo > div:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 72.894rem;
+
+}
+.menu > a {
+    position: relative;
+    
+    
+}
+.menu > a > svg {
+    position: absolute;
+    right: 0;
+    top : 50%;
+}
+
+.fs-16 {
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+}
+
+.create {
+    padding-right: 0;
+    display: flex;
+    align-items: center;
+}
+
+.blueButton {
+    background-color: #1C83E5;
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    color: white;
+}
+
+#createNft {
+    /* padding-top: 1.45rem; */
+    padding-left: 3.1rem;
+    padding-right: 3.1rem ;
+    border-radius: 0.8rem;
+    border: none;
+    width: 16rem;
+    height: 5.8rem;
+    margin-left: 4.8rem;
+}
+
+/* end navBar */
+
+/* Start firstPart */
+#main {
+    padding-top: 4.8rem;
+    padding-bottom: 9.59rem;
+}
+.fs-80{
+    font-size: 8rem;
+    line-height: 9.6rem;
+    font-weight: bold;
+}
+.fs-24{
+    font-size: 2.4rem;
+    line-height: 4rem;
+}
+.display-flex{
+    display: flex;
+}
+
+.align-items-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.spacebetween {
+    justify-content: space-between;
+}
+#first {
+    display: flex;
+}
+
+#Explore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.8rem 2.65rem;
+    justify-content: space-between;
+    border: none;
+    border-radius: 0.8rem;
+    width: 14.9rem;
+}
+
+/* Start secondPart */
+
+#second {
+    margin-top: 19.19rem;
+}
+
+
+
+.fs-48{
+    font-size: 4.8rem;
+    line-height: 6.4rem;
+    font-weight: bold;
+}
+
+.howItWork {
+    padding: 4.8rem;
+}
+
+.fs-18{
+    font-size: 1.8rem;
+    line-height: 3.2rem;
+    color: #838383;
+}
